@@ -2,3 +2,6 @@
 /code2.py
 /hello.py
 /testing.py
+
+__pycache__/
+/import_prac.py/
