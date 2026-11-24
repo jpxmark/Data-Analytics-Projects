@@ -1,4 +1,4 @@
-# CALCULATOR PROJECT V2
+# CALCULATOR PROJECT v2
 
 
 quit_answer = ""

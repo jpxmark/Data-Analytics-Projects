@@ -1,4 +1,4 @@
-# BUDGET CHECKER PROJECT
+# BUDGET CHECKER PROJECT v1
 
 
 # Ask for the budget (a number)
